@@ -2,7 +2,7 @@
 
 ## Description
 
-I want to build a text editor that someone can access via website and/or download to use.
+I want to build a text editor that someone can access via website and/or download to use offline.
 
 ### User Story
 
@@ -40,13 +40,9 @@ THEN I should have proper build scripts for a webpack application
 
 ## Installation
 
-Download the files from the repo and be sure to install the following:
+Download the files from the repo and be sure to to run npm install to download all the necessary packages before using.
 
-- MongoDB
-- Express
-- Mongoose
-
-Once installed, start your server and test in Insomnia.
+Once installed, you 
 
 ## Usage
 
