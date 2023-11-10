@@ -20,15 +20,15 @@ export const putDb = async (content) => {
   await store.add(content);
   await tx.done;
 }
-console.error('putDb not implemented');
 
 export const getDb = async () => {
   const db = await openDB('jate', 1);
   const tx = db.transaction('jate', 'readonly');
   const store = tx.objectStore('jate');
+  const request = store.get(1);
+  const result = await request;
 
-  return store.getAll();
+  return result?.value;
 }
-console.error('getDb not implemented');
 
 initdb();
