@@ -48,17 +48,19 @@ Once installed, you
 
 This is an app local on your device that you may trigger within terminal and see the functionality in Insomnia
 
-Link to video: [Simple Text Editor](https://drive.google.com/file/d/1vfQCZrYs9eiavhVVP4kIXE90ziFXViFy/view)
+Link to video: [Simple Text Editor](https://simple-text-editor762-cb8e2e80c732.herokuapp.com/)
 
 Screenshot of App: 
 
-![Simple Text Editor](/social-app.png "Simple Text Editor")
+![Simple Text Editor](/text-editor.png "Simple Text Editor")
 
 ## Credits
 
 * Worked through the documentaiton from class activities
 
 * Received assistance from Tutor Andrew Tirpok
+
+* Received assistance from Instructor John
 
 ## License
 
